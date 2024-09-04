@@ -53,6 +53,7 @@
         android:background="@drawable/btn_fundo_branco"
         android:text="Iniciar a Sua Jornada"
         android:textColor="#F65B06"
+        android:textSize="22sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
